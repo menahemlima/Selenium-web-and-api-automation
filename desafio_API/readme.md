@@ -1,4 +1,4 @@
-# Prova técnica API
+# Desafio API
 
 Este é o projeto de API que deve ser automatizado para o desafio.
 

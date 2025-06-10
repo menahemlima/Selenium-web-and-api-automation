@@ -1,4 +1,4 @@
-# Desafio QA Automation - SICREDI
+# Desafio QA Automation
 
 ## 1. Desafio Web
 

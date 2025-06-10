@@ -47,9 +47,9 @@ public class DesafioSicrediTests {
     public void PreencheDados(){
 
         navegador.findElement(cmbSelect).click();
-        navegador.findElement(txtName).sendKeys("Teste Sicredi");
+        navegador.findElement(txtName).sendKeys("Teste");
         navegador.findElement(txtLastName).sendKeys("Teste");
-        navegador.findElement(txtContactFirstName).sendKeys("Menahem Lima");
+        navegador.findElement(txtContactFirstName).sendKeys("Usuario Lima");
         navegador.findElement(txtPhone).sendKeys("51 9999-9999");
         navegador.findElement(txtAddress1).sendKeys("Av Assis Brasil,3970");
         navegador.findElement(txtAddress2).sendKeys("Torre D");
