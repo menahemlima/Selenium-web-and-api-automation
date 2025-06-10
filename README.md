@@ -1,6 +1,6 @@
-# Desafio QA Automation
+# Automação com Selenium + RestAssured
 
-## 1. Desafio Web
+## 1. Web
 
 #### Análise dos testes:
 
@@ -8,7 +8,7 @@ O campo From Employeer não permite valores com string, apenas valores números.
 Foi testado 2 cenários para validar esse campo. Usando números e textos.
 
 
-## 2. Desafio API
+## 2. API
 
 #### Análise dos testes:
 
