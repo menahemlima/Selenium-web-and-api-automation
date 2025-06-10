@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class DesafioSicrediTests {
+public class WebTests {
     private WebDriver navegador;
 
     /* locators dos elementos */
