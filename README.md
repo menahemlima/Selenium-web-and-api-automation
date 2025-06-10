@@ -8,6 +8,8 @@ O campo From Employeer não permite valores com string, apenas valores números.
 Foi testado 2 cenários para validar esse campo. Usando números e textos.
 
 
+
+
 ## 2. API
 
 #### Análise dos testes:
